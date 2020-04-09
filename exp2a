@@ -4,9 +4,9 @@ def word(name):
 	else:
 		return name[0:2] + name[-2:]
 
-print(word('Udit'))
-print(word('Ud'))
-print(word('U'))
+print(word('Keval'))
+print(word('Ke'))
+print(word('K'))
 
 	
 
